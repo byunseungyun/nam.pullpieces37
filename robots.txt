@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://nam.pullpieces.xyz/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
